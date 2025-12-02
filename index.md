@@ -1,8 +1,7 @@
 # Desafio Git - Francisco Magalhães Petrucci - Turma 7 Nyx
 
-# Redes e Internet
-
-## CONCEITOS BÁSICOS
+<details>
+<summary>## CONCEITOS BÁSICOS</summary>
 * **Redundância:** Duplicação de componentes ou funções críticas para aumentar a confiabilidade.
 * **Confidencialidade:** Garantia de que a informação é acessível apenas a pessoas autorizadas.
 * **Integridade:** Assegura que os dados não sofreram alterações não autorizadas.
@@ -18,8 +17,10 @@
 * **Tráfego:** Fluxo de dados movendo-se através de uma rede.
 * **Monitoramento:** Acompanhamento contínuo da saúde e performance do sistema.
 * **Logs:** Registros de eventos que ocorrem dentro de um sistema ou software.
+</details>
 
-## SEGURANÇA
+<details>
+<summary>## SEGURANÇA</summary>
 * **Autenticação:** Processo de verificar a identidade de um usuário.
 * **Ataques:** Tentativas maliciosas de comprometer sistemas.
 * **Malware:** Software projetado para causar danos a computadores.
@@ -61,8 +62,10 @@
 * **Autoridades Certificadoras:** Emissores de certificados digitais confiáveis.
 * **Time To Live (TTL):** Tempo de vida de um pacote na rede.
 * **Hashes:** Impressão digital de dados de tamanho fixo.
+</details>
 
-## ESTRUTURA DA INTERNET
+<details>
+<summary>## ESTRUTURA DA INTERNET</summary>
 * **HTML:** Linguagem de marcação para páginas web.
 * **URL:** Endereço que localiza recursos na internet.
 * **Topologias de Rede:** Layout das conexões (Malha, Estrela, Anel, Barramento).
@@ -114,8 +117,10 @@
 * **Cloudflare:** Serviços de CDN e segurança.
 * **Amazon AWS:** Computação em nuvem da Amazon.
 * **Amazon S3:** Armazenamento de objetos na nuvem.
+</details>
 
-## SERVIDORES E REDES
+<details>
+<summary>## SERVIDORES E REDES</summary>
 * **Proxies:** Intermediários entre cliente e servidor.
 * **Roteadores:** Encaminham pacotes entre redes.
 * **Switches:** Conectam dispositivos na mesma rede.
@@ -141,8 +146,10 @@
 * **Arquitetura SDN:** Rede definida por software.
 * **Infraestrutura On Premises:** Servidores locais.
 * **Infraestrutura Cloud:** Servidores na nuvem.
+</details>
 
-## PROTOCOLOS
+<details>
+<summary>## PROTOCOLOS</summary>
 * **Cabeçalhos:** Metadados do pacote.
 * **UDP / TCP:** Protocolos de transporte (rápido vs. confiável).
 * **RFC:** Documentos de padrões da internet.
@@ -165,8 +172,10 @@
 * **HTTP/HTTPS:** Protocolo web (seguro).
 * **LoRaWAN:** Rede IoT de longa distância.
 * **Zigbee:** Rede IoT em malha.
+</details>
 
-# GIT / GITHUB
+<details>
+<summary># GIT / GITHUB</summary>
 * **Gitconfig:** Configurações do Git.
 * **Commits:** Registro de alterações.
 * **Branches:** Ramificações de desenvolvimento.
@@ -189,3 +198,4 @@
 * **Colaboradores:** Usuários com acesso.
 * **Feature Branch Workflow:** Branch por funcionalidade.
 * **Git Flow:** Modelo de branches estruturado.
+</details>
