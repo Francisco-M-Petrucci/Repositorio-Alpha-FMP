@@ -1,7 +1,8 @@
 # Desafio Git - Francisco Magalhães Petrucci - Turma 7 Nyx
 
 <details>
-<summary>## CONCEITOS BÁSICOS</summary>
+<summary> CONCEITOS BÁSICOS</summary>
+   
 * **Redundância:** Duplicação de componentes ou funções críticas para aumentar a confiabilidade.
 * **Confidencialidade:** Garantia de que a informação é acessível apenas a pessoas autorizadas.
 * **Integridade:** Assegura que os dados não sofreram alterações não autorizadas.
@@ -20,7 +21,8 @@
 </details>
 
 <details>
-<summary>## SEGURANÇA</summary>
+<summary> SEGURANÇA</summary>
+   
 * **Autenticação:** Processo de verificar a identidade de um usuário.
 * **Ataques:** Tentativas maliciosas de comprometer sistemas.
 * **Malware:** Software projetado para causar danos a computadores.
@@ -65,7 +67,8 @@
 </details>
 
 <details>
-<summary>## ESTRUTURA DA INTERNET</summary>
+<summary> ESTRUTURA DA INTERNET</summary>
+   
 * **HTML:** Linguagem de marcação para páginas web.
 * **URL:** Endereço que localiza recursos na internet.
 * **Topologias de Rede:** Layout das conexões (Malha, Estrela, Anel, Barramento).
@@ -120,7 +123,8 @@
 </details>
 
 <details>
-<summary>## SERVIDORES E REDES</summary>
+<summary> SERVIDORES E REDES</summary>
+   
 * **Proxies:** Intermediários entre cliente e servidor.
 * **Roteadores:** Encaminham pacotes entre redes.
 * **Switches:** Conectam dispositivos na mesma rede.
@@ -149,7 +153,8 @@
 </details>
 
 <details>
-<summary>## PROTOCOLOS</summary>
+<summary> PROTOCOLOS</summary>
+   
 * **Cabeçalhos:** Metadados do pacote.
 * **UDP / TCP:** Protocolos de transporte (rápido vs. confiável).
 * **RFC:** Documentos de padrões da internet.
@@ -175,7 +180,8 @@
 </details>
 
 <details>
-<summary># GIT / GITHUB</summary>
+<summary> GIT / GITHUB</summary>
+   
 * **Gitconfig:** Configurações do Git.
 * **Commits:** Registro de alterações.
 * **Branches:** Ramificações de desenvolvimento.
@@ -199,3 +205,4 @@
 * **Feature Branch Workflow:** Branch por funcionalidade.
 * **Git Flow:** Modelo de branches estruturado.
 </details>
+
