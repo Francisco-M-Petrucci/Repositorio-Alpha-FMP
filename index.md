@@ -1,10 +1,6 @@
 # Desafio Git - Francisco Magalhães Petrucci - Turma 7 Nyx
 
-<details>
-<summary> CONCEITOS BÁSICOS</summary>
-
-<div>
-   
+## CONCEITOS BÁSICOS
 * **Redundância:** Duplicação de componentes ou funções críticas para aumentar a confiabilidade.
 * **Confidencialidade:** Garantia de que a informação é acessível apenas a pessoas autorizadas.
 * **Integridade:** Assegura que os dados não sofreram alterações não autorizadas.
@@ -21,14 +17,7 @@
 * **Monitoramento:** Acompanhamento contínuo da saúde e performance do sistema.
 * **Logs:** Registros de eventos que ocorrem dentro de um sistema ou software.
 
-</div>
-</details>
-
-<details>
-<summary> SEGURANÇA</summary>
-
-<div>
-   
+## SEGURANÇA
 * **Autenticação:** Processo de verificar a identidade de um usuário.
 * **Ataques:** Tentativas maliciosas de comprometer sistemas.
 * **Malware:** Software projetado para causar danos a computadores.
@@ -71,14 +60,7 @@
 * **Time To Live (TTL):** Tempo de vida de um pacote na rede.
 * **Hashes:** Impressão digital de dados de tamanho fixo.
 
-</div>
-</details>
-
-<details>
-<summary> ESTRUTURA DA INTERNET</summary>
-
-<div>
-   
+## ESTRUTURA DA INTERNET
 * **HTML:** Linguagem de marcação para páginas web.
 * **URL:** Endereço que localiza recursos na internet.
 * **Topologias de Rede:** Layout das conexões (Malha, Estrela, Anel, Barramento).
@@ -131,14 +113,7 @@
 * **Amazon AWS:** Computação em nuvem da Amazon.
 * **Amazon S3:** Armazenamento de objetos na nuvem.
 
-</div>
-</details>
-
-<details>
-<summary> SERVIDORES E REDES</summary>
-
-<div>
-   
+## SERVIDORES E REDES
 * **Proxies:** Intermediários entre cliente e servidor.
 * **Roteadores:** Encaminham pacotes entre redes.
 * **Switches:** Conectam dispositivos na mesma rede.
@@ -165,14 +140,7 @@
 * **Infraestrutura On Premises:** Servidores locais.
 * **Infraestrutura Cloud:** Servidores na nuvem.
 
-</div>
-</details>
-
-<details>
-<summary> PROTOCOLOS</summary>
-
-<div>
-   
+## PROTOCOLOS
 * **Cabeçalhos:** Metadados do pacote.
 * **UDP / TCP:** Protocolos de transporte (rápido vs. confiável).
 * **RFC:** Documentos de padrões da internet.
@@ -196,14 +164,7 @@
 * **LoRaWAN:** Rede IoT de longa distância.
 * **Zigbee:** Rede IoT em malha.
 
-</div>
-</details>
-
-<details>
-<summary> GIT / GITHUB</summary>
-
-<div>
-   
+# GIT / GITHUB
 * **Gitconfig:** Configurações do Git.
 * **Commits:** Registro de alterações.
 * **Branches:** Ramificações de desenvolvimento.
@@ -226,8 +187,3 @@
 * **Colaboradores:** Usuários com acesso.
 * **Feature Branch Workflow:** Branch por funcionalidade.
 * **Git Flow:** Modelo de branches estruturado.
-
-</div>
-</details>
-
-
