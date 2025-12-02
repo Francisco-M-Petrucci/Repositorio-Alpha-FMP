@@ -2,6 +2,8 @@
 
 <details>
 <summary> CONCEITOS BÁSICOS</summary>
+
+<div>
    
 * **Redundância:** Duplicação de componentes ou funções críticas para aumentar a confiabilidade.
 * **Confidencialidade:** Garantia de que a informação é acessível apenas a pessoas autorizadas.
@@ -18,10 +20,14 @@
 * **Tráfego:** Fluxo de dados movendo-se através de uma rede.
 * **Monitoramento:** Acompanhamento contínuo da saúde e performance do sistema.
 * **Logs:** Registros de eventos que ocorrem dentro de um sistema ou software.
+
+</div>
 </details>
 
 <details>
 <summary> SEGURANÇA</summary>
+
+<div>
    
 * **Autenticação:** Processo de verificar a identidade de um usuário.
 * **Ataques:** Tentativas maliciosas de comprometer sistemas.
@@ -64,10 +70,14 @@
 * **Autoridades Certificadoras:** Emissores de certificados digitais confiáveis.
 * **Time To Live (TTL):** Tempo de vida de um pacote na rede.
 * **Hashes:** Impressão digital de dados de tamanho fixo.
+
+</div>
 </details>
 
 <details>
 <summary> ESTRUTURA DA INTERNET</summary>
+
+<div>
    
 * **HTML:** Linguagem de marcação para páginas web.
 * **URL:** Endereço que localiza recursos na internet.
@@ -120,10 +130,14 @@
 * **Cloudflare:** Serviços de CDN e segurança.
 * **Amazon AWS:** Computação em nuvem da Amazon.
 * **Amazon S3:** Armazenamento de objetos na nuvem.
+
+</div>
 </details>
 
 <details>
 <summary> SERVIDORES E REDES</summary>
+
+<div>
    
 * **Proxies:** Intermediários entre cliente e servidor.
 * **Roteadores:** Encaminham pacotes entre redes.
@@ -150,10 +164,14 @@
 * **Arquitetura SDN:** Rede definida por software.
 * **Infraestrutura On Premises:** Servidores locais.
 * **Infraestrutura Cloud:** Servidores na nuvem.
+
+</div>
 </details>
 
 <details>
 <summary> PROTOCOLOS</summary>
+
+<div>
    
 * **Cabeçalhos:** Metadados do pacote.
 * **UDP / TCP:** Protocolos de transporte (rápido vs. confiável).
@@ -177,10 +195,14 @@
 * **HTTP/HTTPS:** Protocolo web (seguro).
 * **LoRaWAN:** Rede IoT de longa distância.
 * **Zigbee:** Rede IoT em malha.
+
+</div>
 </details>
 
 <details>
 <summary> GIT / GITHUB</summary>
+
+<div>
    
 * **Gitconfig:** Configurações do Git.
 * **Commits:** Registro de alterações.
@@ -204,5 +226,8 @@
 * **Colaboradores:** Usuários com acesso.
 * **Feature Branch Workflow:** Branch por funcionalidade.
 * **Git Flow:** Modelo de branches estruturado.
+
+</div>
 </details>
+
 
